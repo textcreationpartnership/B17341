@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Declaration du comte DÁvaux, ́Jean Antoine De Mesmes Chevalier Comte DÁvaux Seigneur de bazocheis longueual et autres lieux, confeiler détat provost grand maistre des ceremonies et Commandeur des Ordres du Roy et Ambassadeur Extraordinaire de sa Majeste auprez du Roy de la Grand Bretagne,</title>
+            <author>Avaux, Jean-Antoine de Mesmes, comte d', 1640-1709.</author>
+         </titleStmt>
+         <extent>Approx. 3KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17341</idno><idno type="EEBO-CITATION">99888876</idno>
+  <idno type="VID">196403</idno>
+  <idno type="EEBO-PROQUEST">2240903595</idno>
+  
+            <idno type="STC">Wing A4266aA</idno>
+            <idno type="STC">Interim Tract Supplement Guide 807.g.5.[51]</idno>
+            <idno type="STC">ESTC R232430</idno>
+            <idno type="PROQUEST">ocm99888876</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888876e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17341)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196403)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; F2:3[48])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Declaration du comte DÁvaux, ́Jean Antoine De Mesmes Chevalier Comte DÁvaux Seigneur de bazocheis longueual et autres lieux, confeiler détat provost grand maistre des ceremonies et Commandeur des Ordres du Roy et Ambassadeur Extraordinaire de sa Majeste auprez du Roy de la Grand Bretagne,</title>
+                  <author>Avaux, Jean-Antoine de Mesmes, comte d', 1640-1709.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Dublin :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: DÁvavx et plus bas Bovlard. Secretare. de l'ambassade.</note>
+                  <note>Date at end of text: Fait a Dublin le 2 d Septembre, 1689.</note>
+                  <note>Place of publication suggested by the British Library.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Military law --  France --  Early works to 1800.</term>
+               <term type="geographic_name">France --  History, Military --  1643-1715 --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  Ireland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="fre">
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:196403:1"/>
+            <head>DECLARATION Du Comte D'Avaux,</head>
+            <head type="sub">Jean Antoine De Mesmes Chevalier Comte D'Avaux Seigneur de Bazocheis Longueual et autres lieux, Conseiler d'Etat Provost Grand Maistre des Ceremonies et Commandeur des Ordres du Roy et Ambassadeur Extraordinaire de sa Majeste auprez du Roy de la Grand Bre<g ref="char:EOLhyphen"/>tagne,</head>
+            <p>FAisons fçavoir a tous Cavaliers, Dragons et Soldats des troupes du Roy nostre Maistre tant Françoises qu'Estrangeres, qui ayant este debauches et induits a tomber dans le crime de desertion ont abandonne le service de sa Majeste et ont pris party dans les troupes qui servent le Prince <hi>D' Orange</hi> sous le Commandement du Mareschal de <hi>Schomberg</hi> contre le Roy <hi>D' angleterre</hi> qui est dans son Royaume <hi>D' Irlande</hi> a la teste de son Armée▪ que tous ceux desdits Ca<g ref="char:EOLhyphen"/>valiers, Dragons, et Soldats qui quitteront le party dans lequel ils se trovuent apresent engagez pour venir se ranger sous les etandarts de sa Majeste <hi>Britannique,</hi> jouiront du benefice de la derniere amnistie et pardon du crime de desertion accorde par sa Majeste en datte du 28. de <hi>januier</hi> dernier, et bien que ledit pardon ne soit donné qu én faveur de ceux desdits Caualiers, Dragons, et Soldats qui sont tombez dans le Crime de desertion avant le premier de <hi>januier</hi> dernier, et qui retourneront servir sa Majeste dans trois mois a compter du jour de la datte dudit pardon, neantmoins en vertu du pouvoir particulier que nous auons receu do Roy nostre maistre Decla<g ref="char:EOLhyphen"/>rons et promettons, que ladite amnistie du 28. <hi>januier</hi> dernier aura lieu pour tous ceux desdits Cavaliers, Dragons, et soldars des troupes de sa Majeste tant Francoises qu<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> éstrangeres qui ont deserte deuant et depuis ledit temps et qui viendront prendre party dans les troupes de sa Majeste <hi>Britannique</hi> dans un mois a compter du jour de la datte de la presente, sans que ceux desd. Cavaliers, Dragons, et soldats qui se rangeront ainsy sous les estandards de sadite Majesté <hi>Britannique,</hi> puissent estre inquietez pour raison dudit crime de desertion; pourueu qu'ils sevent pen<g ref="char:EOLhyphen"/>dant l éspace de six anneés porte parladite declaration, tant dans les troupes de sa Majeste <hi>Britannique</hi> pendant la Presente guerre que dans celles du Roy nostre maistre le service, quils rendront soit en <hi>Irlande,</hi> soit dans les autres Royaumes de sa Majeste de la Grand <hi>Bretagne</hi> leur estant compté tout demesme ques'ils le rendoient en Erance, dans les corps d'ou ilsont desertè, leur promettant de la part du Roy que lapresen<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e aura sonplein effet a levr esgard, et que sur les certificats que nous donnerons a tous ceux desdits Cavalieres, Dragons, et soldats qui viendront a nous ils seront dans une entiere seurete tant dans ce Royaume qu'en <hi>France</hi> lors qu'ils y seront ramenez. </p>
+            <closer>
+               <dateline>Fait a <hi>Dublin</hi>
+                  <date> le 2 d <hi>Septembre.</hi> 1689.</date>
+               </dateline>
+               <signed>Signe D'AVAVX. et plus bas BOVLARD. Secretare. de l'ambassade.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
